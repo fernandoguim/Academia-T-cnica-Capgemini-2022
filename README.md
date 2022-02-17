@@ -1,22 +1,17 @@
- 
- ![image](https://github.com/fernandoguim/Academia-T-cnica-Capgemini-2022/blob/main/academia.PNG)
+![image](https://github.com/fernandoguim/Academia-T-cnica-Capgemini-2022/blob/main/academia.PNG)
  
  # ![image](https://github.com/fernandoguim/Academia-T-cnica-Capgemini-2022/blob/main/Capgemini.png) Sobre a Capgemini ![image](https://github.com/fernandoguim/Academia-T-cnica-Capgemini-2022/blob/main/Capgemini.png)
-
 
 Capgemini é líder global em serviços de consultoria, transformação digital, tecnologia e engenharia.
 O Grupo está na vanguarda da inovação para abordar toda a amplitude de oportunidades dos clientes no 
 mundo em evolução da nuvem, digital e plataformas.
 
-
  # ![image](https://github.com/fernandoguim/Academia-T-cnica-Capgemini-2022/blob/main/Capgemini.png) Visão e Missão Capgemini ![image](https://github.com/fernandoguim/Academia-T-cnica-Capgemini-2022/blob/main/Capgemini.png)
  
-
 **Nossa Visão:** o valor empresarial da tecnologia vem de e por meio de pessoas Capgemini entende que não se pode atingir
 o valor empresarial somente através da tecnologia. Este começa com as pessoas: especialistas trabalhando em conjunto para
 chegar ao coração dos objetivos de seu negócio, e para desenvolver as soluções mais adaptadas, para atender a esses requisitos.
 Acreditamos que esta abordagem, centrada no ser humano para a tecnologia, é o que faz a diferença para o seu negócio.
-
 
 **Nossa Missão:** com você, criamos e entregamos soluções de negócios e tecnologia, que se adéquam às suas necessidades e levam
 aos resultados desejados.
@@ -32,14 +27,14 @@ maneira de forjar relações mais estreitas e mais eficazes.
 
 **People matter, results count.**
  
-# ![image](https://github.com/fernandoguim/Academia-T-cnica-Capgemini-2022/blob/main/Capgemini.png) Academia Técnica CAPGEMINI 2022! ![image](https://github.com/fernandoguim/Academia-T-cnica-Capgemini-2022/blob/main/Capgemini.png)
+# ![image](https://github.com/fernandoguim/Academia-T-cnica-Capgemini-2022/blob/main/Capgemini.png) Academia Técnica Capgemini 2022! ![image](https://github.com/fernandoguim/Academia-T-cnica-Capgemini-2022/blob/main/Capgemini.png)
 
 Academia Técnica Capgemini é um Programa de Formação designado a capacitar futuros (as) colaboradores (as) para os times
 de trabalho da empresa.
 Líder Global em tecnologia, terceirização e serviços de consultoria.
 
 
-# ![image](https://github.com/fernandoguim/Academia-T-cnica-Capgemini-2022/blob/main/Capgemini.png) Desafio de programação - Academia CAPGEMINI ![image](https://github.com/fernandoguim/Academia-T-cnica-Capgemini-2022/blob/main/Capgemini.png)
+# ![image](https://github.com/fernandoguim/Academia-T-cnica-Capgemini-2022/blob/main/Capgemini.png) Desafio de programação - Academia Capgemini ![image](https://github.com/fernandoguim/Academia-T-cnica-Capgemini-2022/blob/main/Capgemini.png)
 
 Essa é a terceira etapa do processo de seleção para a Academia Capgemini 2022.
 O objetivo dessa etapa é testar os conhecimentos em lógica de programação dos participantes aprovados nas etapas anteriores. 
@@ -67,7 +62,7 @@ Saída:
 ******
 ```
 
-# 💡 Questão 2 💡
+## 💡 Questão 2 💡
 
 ```
 Débora se inscreveu em uma rede social para se manter em contato com seus amigos. A página de cadastro exigia o preenchimento 
@@ -96,7 +91,7 @@ Ela pode tornar a senha segura adicionando 3 caracteres, por exemplo, &ab, trans
 suficientes visto que a senha precisa ter um tamanho mínimo de 6 caracteres.
 ```
 
-# 💡 Questão 3 💡
+## 💡 Questão 3 💡
 
 ```
 Duas palavras podem ser consideradas anagramas de si mesmas se as letras de uma palavra podem ser realocadas para formar a outra palavra.
