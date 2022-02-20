@@ -92,7 +92,7 @@ Ela pode tornar a senha segura adicionando 3 caracteres, por exemplo, &ab, trans
 suficientes visto que a senha precisa ter um tamanho mínimo de 6 caracteres.
 ```
 
-## 💡 Questão 3 💡
+## [💡 Questão 3 💡](https://github.com/fernandoguim/Academia-Tecnica-Capgemini-2022/blob/main/src/Questao3.java)
 
 ```
 Duas palavras podem ser consideradas anagramas de si mesmas se as letras de uma palavra podem ser realocadas para formar a outra palavra.
