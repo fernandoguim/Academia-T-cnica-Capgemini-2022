@@ -44,7 +44,7 @@ Para isso, Foram criados três desafios com as questões com diferentes níveis 
 
 Foi desenvolvido o desafio em linguagem Java.
  
-## [💡 Questão 1 💡](https://github.com/fernandoguim/Academia-Tecnica-Capgemini-2022/blob/main/src/Questao1.java)
+## [💡 Questão 1 💡](https://github.com/fernandoguim/Academia-Tecnica-Capgemini-2022/blob/main/src/Questao.java)
 
 ```
 Escreva um algoritmo que mostre na tela uma escada de tamanho n utilizando o caractere * e espaços.
