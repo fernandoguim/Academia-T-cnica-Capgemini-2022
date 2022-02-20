@@ -63,7 +63,7 @@ Saída:
 ******
 ```
 
-## 💡 Questão 2 💡
+## [💡 Questão 2 💡](https://github.com/fernandoguim/Academia-Tecnica-Capgemini-2022/blob/main/src/questao2.js)
 
 ```
 Débora se inscreveu em uma rede social para se manter em contato com seus amigos. A página de cadastro exigia o preenchimento 
